@@ -1,5 +1,7 @@
 # Algorithmic-Trading-Backtester-and-Strategy-Evaluator 💻
-This project showcases your ability to handle real world data (time-series), apply financial models, and evaluate performance using critical metrics a key area for quantitative roles.
+This project showcases your ability to handle real world data (time-series), apply financial models, and evaluate performance using critical metrics a key area for quantitative roles
+
+<img width="579" height="641" alt="image" src="https://github.com/user-attachments/assets/bad51572-cf3e-4c18-8c43-43c031aa0b93" />
 
 Algorithmic Trading Backtester and Strategy Evaluator 📊
 
